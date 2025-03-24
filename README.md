@@ -1,0 +1,2 @@
+# Transformer-Neural-Network-COVID-Air-Quality-Prediction
+This project examines the relationship between air pollutants—CO, NO2, O3, PM2.5, PM10, SO2—and COVID-19 outcomes, including hospital admissions, ICU bed occupancy, and COVID-related deaths. Leveraging spatial-temporal data analysis techniques, this study explores correlations between these environmental variables and COVID-19 metrics over time. 
